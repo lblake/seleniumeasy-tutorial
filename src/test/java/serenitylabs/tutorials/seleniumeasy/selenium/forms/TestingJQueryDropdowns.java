@@ -2,12 +2,9 @@ package serenitylabs.tutorials.seleniumeasy.selenium.forms;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.Select;
 import serenitylabs.tutorials.seleniumeasy.selenium.WithWebdriverSupport;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

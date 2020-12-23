@@ -1,9 +1,6 @@
 package serenitylabs.tutorials.seleniumeasy.serenity;
 
 import net.serenitybdd.core.steps.UIInteractionSteps;
-import org.openqa.selenium.By;
-
-import java.time.Duration;
 
 public class WithSerenity extends UIInteractionSteps {
 
